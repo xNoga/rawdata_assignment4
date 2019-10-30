@@ -340,4 +340,4 @@ ASALocalRun/
 healthchecksdb
 
 # VS Code folder
-.vscode
+.vscode/*
